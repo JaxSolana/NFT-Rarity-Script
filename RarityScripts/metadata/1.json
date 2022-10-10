@@ -1,0 +1,44 @@
+{
+  "name": "Cool Coders #2",
+  "symbol": "Write the symbol of the NFT",
+  "description": "Write the description of the NFT",
+  "image": "0.gif",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "swirl"
+    },
+    {
+      "trait_type": "Back Accessory",
+      "value": "rockets"
+    },
+    {
+      "trait_type": "Head",
+      "value": "faceB"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shirt three"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eyesa"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clippingexample_0002_bluehair"
+    },
+    {
+      "trait_type": "Shirt Accessories",
+      "value": "nametag"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.gif",
+        "type": "image/gif"
+      }
+    ]
+  }
+}
